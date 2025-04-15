@@ -32,11 +32,4 @@ Update an existing student record.
 ### DELETE /students/:id
 Delete an existing student record.
 
-## Contributing
-Contributions to this project are welcome! To contribute, follow these steps:
 
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive commit messages.
-4. Push your changes to your fork.
-5. Create a pull request from your fork to this repository.
